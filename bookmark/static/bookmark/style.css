@@ -1,0 +1,7 @@
+body {
+    background: #f1f6f9 url("images/background.png") no-repeat;
+    background-position: center;
+    background-size: 20%;
+    height: 500px;
+    border-top: 10px solid #ccc;
+}
